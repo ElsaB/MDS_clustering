@@ -33,6 +33,5 @@ Built with R version 3.5.1
 - [x] split genes by hotspots
 - [x] top genes by component
 - [ ] try dataset with all genes and cytogenetics
-- [ ] understand theory better
 - [ ] try other clustering method
 - [ ] play with hdp parameters
